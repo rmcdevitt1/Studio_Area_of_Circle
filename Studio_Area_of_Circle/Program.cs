@@ -33,7 +33,7 @@ namespace Studio_Area_of_Circle
             Console.WriteLine("The diameter of a circle with radius of " + radius + " is: " + Circle.GetDiameter(radius));
             Console.WriteLine("The amout of gas used to drive " + Circle.GetCircumference(radius) + " is: " + amtOfGas);
 
-
+            Console.WriteLine("Hello!");
 
         }
     }
